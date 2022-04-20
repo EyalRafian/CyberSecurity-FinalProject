@@ -1,0 +1,17 @@
+body {
+  background-color: #b0bec5;
+}
+
+.FieldInfo {
+  color: #b2ebf2;
+  font-weight: bold;
+  font-family: Bitter, Georgia, "Times New Roman", Times, serif;
+  font-size: 1.2em;
+}
+.CommentBlock {
+  background-color: red;
+}
+
+.signIn {
+  margin: 20 100 100 20;
+}
